@@ -1,0 +1,21 @@
+{
+  "name": "サンリツFAQ",
+  "short_name": "サンFAQ",
+  "start_url": "https://github.com/i24001omata-hub/FAQ.git",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eedcb3",
+  "theme_color": "#eedcb3",
+  "icons": [
+    {
+      "src": "Image192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Image1080.png",
+      "sizes": "1080x1920",
+      "type": "image/png"
+    }
+  ]
+}
